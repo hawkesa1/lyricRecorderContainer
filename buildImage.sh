@@ -1,1 +1,1 @@
-docker image build -t hawkesa/lyricrecorder1 ./
+docker image build -t hawkesa/lyricrecorder3 ./

@@ -30,7 +30,6 @@ RUN chmod +x $LYRIC_RECORDER_RESOURCES_DIR/scripts/audioConvert.sh
 
 
 
-
 RUN apt-get install dos2unix
 RUN dos2unix $LYRIC_RECORDER_RESOURCES_DIR/scripts/audioConvert.sh
 		
